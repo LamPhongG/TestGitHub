@@ -1,0 +1,23 @@
+{
+  "name": "demo1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://LamPhongG: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@github.com/LamPhongG/TestGitHub.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LamPhongG/TestGitHub/issues"
+  },
+  "homepage": "https://github.com/LamPhongG/TestGitHub#readme",
+  "devDependencies": {
+    "jest": "^30.2.0"
+  }
+}
